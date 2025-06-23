@@ -2,5 +2,14 @@
   "name": "Anal Fisher",
   "symbol": "AF",
   "description": "An anal fissure is a small but painful tear in the skin around the anus. It often causes sharp pain and bleeding during bowel movements, leaving many feeling physically and emotionally drained. Though it’s common, it can feel like a lonely struggle.",
-  "image": "https://raw.githubusercontent.com/jubaerbappi/mytoken/refs/heads/main/photo_5102610543277092440_y.jpg"
+  "image": "https://raw.githubusercontent.com/jubaerbappi/mytoken/refs/heads/main/photo_5102610543277092440_y.jpg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/jubaerbappi/mytoken/refs/heads/main/photo_5102610543277092440_y.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
 }
